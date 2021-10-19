@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleArea_Redux", "CircleArea_Redux\CircleArea_Redux.csproj", "{0FF933B7-05AC-41F4-95B0-CED2934A6E07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FF933B7-05AC-41F4-95B0-CED2934A6E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF933B7-05AC-41F4-95B0-CED2934A6E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF933B7-05AC-41F4-95B0-CED2934A6E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF933B7-05AC-41F4-95B0-CED2934A6E07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A26E0FFD-E6B2-4C0C-B114-2A5712911E47}
+	EndGlobalSection
+EndGlobal

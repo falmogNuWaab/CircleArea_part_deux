@@ -1,0 +1,14 @@
+C:\Users\jmitchell11\OneDrive - Knex\repos\CircleArea_Redux\CircleArea_Redux\bin\Debug\netcoreapp3.1\CircleArea_Redux.exe
+C:\Users\jmitchell11\OneDrive - Knex\repos\CircleArea_Redux\CircleArea_Redux\bin\Debug\netcoreapp3.1\CircleArea_Redux.deps.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\CircleArea_Redux\CircleArea_Redux\bin\Debug\netcoreapp3.1\CircleArea_Redux.runtimeconfig.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\CircleArea_Redux\CircleArea_Redux\bin\Debug\netcoreapp3.1\CircleArea_Redux.runtimeconfig.dev.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\CircleArea_Redux\CircleArea_Redux\bin\Debug\netcoreapp3.1\CircleArea_Redux.dll
+C:\Users\jmitchell11\OneDrive - Knex\repos\CircleArea_Redux\CircleArea_Redux\bin\Debug\netcoreapp3.1\CircleArea_Redux.pdb
+C:\Users\jmitchell11\OneDrive - Knex\repos\CircleArea_Redux\CircleArea_Redux\obj\Debug\netcoreapp3.1\CircleArea_Redux.csproj.AssemblyReference.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\CircleArea_Redux\CircleArea_Redux\obj\Debug\netcoreapp3.1\CircleArea_Redux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmitchell11\OneDrive - Knex\repos\CircleArea_Redux\CircleArea_Redux\obj\Debug\netcoreapp3.1\CircleArea_Redux.AssemblyInfoInputs.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\CircleArea_Redux\CircleArea_Redux\obj\Debug\netcoreapp3.1\CircleArea_Redux.AssemblyInfo.cs
+C:\Users\jmitchell11\OneDrive - Knex\repos\CircleArea_Redux\CircleArea_Redux\obj\Debug\netcoreapp3.1\CircleArea_Redux.csproj.CoreCompileInputs.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\CircleArea_Redux\CircleArea_Redux\obj\Debug\netcoreapp3.1\CircleArea_Redux.dll
+C:\Users\jmitchell11\OneDrive - Knex\repos\CircleArea_Redux\CircleArea_Redux\obj\Debug\netcoreapp3.1\CircleArea_Redux.pdb
+C:\Users\jmitchell11\OneDrive - Knex\repos\CircleArea_Redux\CircleArea_Redux\obj\Debug\netcoreapp3.1\CircleArea_Redux.genruntimeconfig.cache
