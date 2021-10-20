@@ -29,7 +29,14 @@ namespace CircleArea_Redux
                 }
                 keepGoing = circleDB.KeepGoing();
             }
-            Console.WriteLine("Here are your circles: \n");
+            if(circleDB.CircleList.Count > 1)
+            {
+                Console.WriteLine("Here are your " + circleDB.CircleList.Count + " circles: \n");
+            } else
+            {
+                Console.WriteLine("Here is your circle: \n");
+            }
+            
             circleDB.PrintCircleList();
             Console.WriteLine("\nGoodbye!");            
         }
