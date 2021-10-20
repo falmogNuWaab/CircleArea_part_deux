@@ -27,12 +27,11 @@ namespace CircleArea_Redux
                 {
                     continue;
                 }
-                keepGoing = CircleDB.KeepGoing();
+                keepGoing = circleDB.KeepGoing();
             }
             Console.WriteLine("Here are your circles: \n");
             circleDB.PrintCircleList();
-            Console.WriteLine("\n\nGoodbye!");
-            
+            Console.WriteLine("\nGoodbye!");            
         }
 
     }

@@ -28,7 +28,7 @@ namespace CircleArea_Redux
                 Console.WriteLine($"Circle {i + 1}: \n{CircleList[i]}");
             }
         }
-        public static bool KeepGoing()
+        public bool KeepGoing()
         {
             Console.WriteLine("Would you like to add another circle?(y/n)");
             string response = Console.ReadLine();
