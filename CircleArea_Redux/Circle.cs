@@ -18,9 +18,11 @@ namespace CircleArea_Redux
 
         public override string ToString()
         {
+            //string response = $"Radius: {Radius} \nCircumference: {Circumference}";
+
             string response = "Radius: " + Radius.ToString("0.00") + "\n";
-            response += "Circumference:" +  Circumference.ToString("0.00") + "\n";
-            response += "Area:" + Area.ToString("0.00");
+            response += "Circumference:" + Circumference.ToString("0.00") + "\n";
+            response += "Area:" + Area.ToString("0.00") + "\n";
             return response;
         }
     }

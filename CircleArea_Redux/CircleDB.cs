@@ -25,7 +25,27 @@ namespace CircleArea_Redux
         {
             for(int i = 0; i < CircleList.Count; i++)
             {
-                Console.WriteLine(CircleList[i]);
+                Console.WriteLine($"Circle {i + 1}: \n{CircleList[i]}");
+            }
+        }
+        public static bool KeepGoing()
+        {
+            Console.WriteLine("Would you like to add another circle?(y/n)");
+            string response = Console.ReadLine();
+            response = response.ToLower();
+            if (response == "y")
+            {
+                return true;
+            }
+            else if (response == "n")
+            {
+                //Console.WriteLine("Goodbye");
+                return false;
+            }
+            else
+            {
+                Console.WriteLine("I didn't understand that");
+                return KeepGoing();
             }
         }
     }

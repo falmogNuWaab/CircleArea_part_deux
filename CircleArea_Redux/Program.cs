@@ -27,29 +27,13 @@ namespace CircleArea_Redux
                 {
                     continue;
                 }
-                keepGoing = KeepGoing();
+                keepGoing = CircleDB.KeepGoing();
             }
+            Console.WriteLine("Here are your circles: \n");
             circleDB.PrintCircleList();
+            Console.WriteLine("\n\nGoodbye!");
+            
+        }
 
-        }
-        public static bool KeepGoing()
-        {
-            Console.WriteLine("Would you like to add another circle?(y/n)");
-            string response = Console.ReadLine();
-            response = response.ToLower();
-            if(response == "y")
-            {
-                return true;
-            } else if(response == "n")
-            {
-                Console.WriteLine("Goodbye");
-                return false;
-            }
-            else
-            {
-                Console.WriteLine("I didn't understand that");
-                return KeepGoing();
-            }
-        }
     }
 }
